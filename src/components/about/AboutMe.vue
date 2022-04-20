@@ -5,7 +5,7 @@ export default {
 			bios: [
 				{
 					id: 1,
-					bio: 'Hello , I am  '
+					bio: 'Hola , Influencersweb3 te conecta con la nueva tecnología emergente del momento , te llevamos de las mejores estrategias que existen en este momento. Te asesoramos sobre lo que tu negocio necesita en todos los campos del comercio, marketing digital, tecnología, inteligencia artificial (IA). Crece y  aprende temas nuevos en nuestro newsletter.  Bienvenido a este nuevo emprendimiento. '
 				},
 			],
 		};
@@ -29,7 +29,7 @@ export default {
 			<p
 				v-for="bio in bios"
 				:key="bio.id"
-				class="font-general-regular mb-4 text-ternary-dark dark:text-ternary-light text-lg"
+				class="font-general-regular mb-6 text-ternary-dark dark:text-ternary-light text-lg"
 			>
 				{{ bio.bio }}
 			</p>

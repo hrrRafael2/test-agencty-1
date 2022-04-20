@@ -13,7 +13,7 @@ export default {
 			contacts: [
 				{
 					id: 1,
-					name: 'Ciudad de México , Avenida reforma #10006',
+					name: 'Ciudad de México , Avenida reforma #1006',
 					icon: 'map-pin',
 				},
 				{
@@ -48,5 +48,6 @@ export default {
 
 		<!-- Contact details -->
 		<ContactDetails :contacts="contacts" />
+		
 	</div>
 </template>

@@ -34,12 +34,7 @@ export default {
 				Hola , somos un equipo de desarrollo de 
 				software
 			</h1>
-			<p
-				class="font-general-medium mt-2 text-lg sm:text-xl  xl:text-2xl text-center sm:text-left leading-none text-gray-400"
-			>
-				Somos un equipo de cuatro personas ,
-				en donde nos gustaria ayudar a su negocio o idea.
-			</p>
+			
 			<div class="flex justify-center sm:block">
 				
 			</div>
